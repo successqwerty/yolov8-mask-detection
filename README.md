@@ -27,3 +27,7 @@ improve accuracy.
 #  Project Status
  Project setup completed  
  Dataset preparation and training will be added step by step
+
+## Classes
+- Mask
+- No Mask
